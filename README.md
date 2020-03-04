@@ -21,9 +21,10 @@ Source: https://www.cancer.net/cancer-types/brain-tumor/diagnosis
 3. ...Survival Prediction
 
 ## DataSets Available: 
-1. Brain MRI Images for Brain Tumor Detection (Source: Kaggle Owner: Navoneel Chakrabarty)
+1. Brain MRI Images for Brain Tumor Detection (Source: Kaggle Owner: Navoneel Chakrabarty)\
    MRI images from multi source, size 253 images
 2. Brats 2019 data set (Multimodal Brain Tumor Segmentation Challenge 2019, Source: BraTS'19, Owner: Upenn)
+
    (TCGA-GBM, n=262 and TCGA-LGG, n=199) TCIA scans (135 GBM and 108 LGG) 
    All the imaging datasets have been segmented manually
 
