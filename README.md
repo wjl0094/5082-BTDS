@@ -1,4 +1,4 @@
-# Brain-Tumor-Segmentation
+# Brain-Tumor-Detection-Segmentation
 Brain Tumor Segmentation using CNN
 
 Introduction
@@ -14,13 +14,13 @@ MRI. An MRI uses magnetic fields, not x-rays, to produce detailed images of the 
 
 Source: https://www.cancer.net/cancer-types/brain-tumor/diagnosis
 
-# Project Steps
+## Project Steps
 
 1. Tumor detection CNN
 2. Tumor segmentation from images.
 3. ...Survival Prediction
 
-# DataSets Available: 
+## DataSets Available: 
 1. Brain MRI Images for Brain Tumor Detection (Source: Kaggle Owner: Navoneel Chakrabarty)
    MRI images from multi source, size 253 images
 2. Brats 2019 data set (Multimodal Brain Tumor Segmentation Challenge 2019, Source: BraTS'19, Owner: Upenn)
